@@ -1,4 +1,4 @@
-# MakeSequence — Sublime Text plugin
+# MakeSequence
 
 Package for Sublime Text 3. Makes number sequences easily.
 
